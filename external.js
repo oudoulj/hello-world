@@ -1,2 +1,2 @@
-var chosen = "B";
+var chosen = "A";
 console.log("external!");
